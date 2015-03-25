@@ -1,14 +1,14 @@
 ﻿
 ==================================================================================================
+This is the official site for SMSGurus.
 
-WOO is a clean, modern, landing page site template. It has a fully responsive design and was 
-tested on all major browser and mobile devices. Woo is the perfect template to showcase your 
-apps, services or digital goods.
+We provide Bulk SMS Services to companies, organizations, religious organizations and institutions.
 
 ==================================================================================================
 
 
 LICENSE:
+This site is was built from WOO.
 
 WOO is released under the Creative Commons Attribution 3.0 License
 (http://creativecommons.org/licenses/by/3.0/). This means that you are free:
